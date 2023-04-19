@@ -5,4 +5,4 @@
 https://github.com/microa/GelPixel/blob/main/Parameters.xlsx
 
 * Approximate Relative Responsivity:
-<img src="https://github.com/microa/GelPixel/blob/main/Picture2.png" width="100px">
+<img src="https://github.com/microa/GelPixel/blob/main/Picture2.png" width="400px">
