@@ -3,7 +3,7 @@
 * IEEE paper address:<br>
 
 * General model Fourier parameters: <br>
-https://github.com/microa/GelPixel/blob/main/Parameters.xlsx
+https://github.com/microa/GelPixel/blob/main/Files/Parameters.xlsx
 
 * Approximate Responsivity:<br>
-<img src="https://github.com/microa/GelPixel/blob/main/Picture2.png" width="400px">
+<img src="https://github.com/microa/GelPixel/blob/main/Files/Picture2.png" width="400px">
