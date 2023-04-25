@@ -10,4 +10,4 @@ https://github.com/microa/GelPixel/blob/main/Files/Parameters.xlsx
 
 * Structures compare code:<br>
 https://github.com/microa/GelPixel/blob/main/Code/Cal_Cmp_Structure.ipynb<br>
-<img src="https://github.com/microa/GelPixel/blob/main/Files/strcmp.png" width="400px">
+<img src="https://github.com/microa/GelPixel/blob/main/Files/strcmp.png" width="600px">
