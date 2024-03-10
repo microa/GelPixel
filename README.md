@@ -1,6 +1,7 @@
 ## GelPixel: A Single-Pixel-Based Tactile Sensor
 
-* IEEE paper address:<br>
+* IEEE paper address:
+<br>https://ieeexplore.ieee.org/abstract/document/10249300
 
 * General model Fourier parameters: <br>
 https://github.com/microa/GelPixel/blob/main/Files/Parameters.xlsx
