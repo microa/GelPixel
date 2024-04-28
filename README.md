@@ -15,3 +15,16 @@ Data points and fitted curve:<br>
 <img src="https://github.com/microa/GelPixel/blob/main/Files/strcmp.png" width="600px">
 
 * Multi-target regression model:<br>
+
+
+* If you find our article is useful to your research, please cite following papers:
+```bibtex
+@inproceedings{huang2023gelpixel,
+  title={GelPixel: A Single-Pixel-Based Tactile Sensor},
+  author={Huang, Binhua and Li, Xiaoyu and Sumari, Putra and Ye, Chaoxiang and Zhou, Zhenning and Yin, Meng and Yi, Zhengkun and Wu, Xinyu},
+  booktitle={2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)},
+  pages={475--480},
+  year={2023},
+  organization={IEEE}
+}
+```
