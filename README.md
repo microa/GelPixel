@@ -6,6 +6,9 @@
 * Data avaliable:
 [Dataset](Data/OUT_FILE_CMB20.csv)
 
+* Multi-target regression model:
+[Code](Code/Multi-target-regression.py)
+
 * General model Fourier parameters: 
 [Fourier parameters](Files/Parameters.xlsx)
 
@@ -16,9 +19,6 @@
 [Code](Code/Cal_Cmp_Structure.ipynb)
 <br>Data points and fitted curve:<br>
 <img src="https://github.com/microa/GelPixel/blob/main/Files/strcmp.png" width="600px">
-
-* Multi-target regression model:
-[Code](Code/Multi-target-regression.py)
 
 * If you find our article is useful to your research, please cite following papers:
 ```bibtex
