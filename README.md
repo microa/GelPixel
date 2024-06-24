@@ -4,7 +4,7 @@
 https://ieeexplore.ieee.org/abstract/document/10249300
 
 * Data avaliable:
-[Data](Data/OUT_FILE_CMB20.csv)
+[Dataset](Data/OUT_FILE_CMB20.csv)
 
 * General model Fourier parameters: 
 [Fourier parameters](Files/Parameters.xlsx)
