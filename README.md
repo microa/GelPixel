@@ -7,7 +7,7 @@
 [Data](Data/OUT_FILE_CMB20.csv)
 
 * General model Fourier parameters: <br>
-https://github.com/microa/GelPixel/blob/main/Files/Parameters.xlsx
+[Fourier parameters](Files/Parameters.xlsx)
 
 * Approximate Responsivity:<br>
 <img src="https://github.com/microa/GelPixel/blob/main/Files/Picture2.png" width="400px">
@@ -18,7 +18,7 @@ Data points and fitted curve:<br>
 <img src="https://github.com/microa/GelPixel/blob/main/Files/strcmp.png" width="600px">
 
 * Multi-target regression model:<br>
-
+[Code]()
 
 * If you find our article is useful to your research, please cite following papers:
 ```bibtex
