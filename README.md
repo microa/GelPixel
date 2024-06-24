@@ -12,12 +12,12 @@
 * Approximate Responsivity:<br>
 <img src="https://github.com/microa/GelPixel/blob/main/Files/Picture2.png" width="400px">
 
-* Structures compare:<br>
+* Structures compare:
 [Code](Code/Cal_Cmp_Structure.ipynb)
-Data points and fitted curve:<br>
+<br>Data points and fitted curve:<br>
 <img src="https://github.com/microa/GelPixel/blob/main/Files/strcmp.png" width="600px">
 
-* Multi-target regression model:<br>
+* Multi-target regression model:
 [Code](Code/Multi-target-regression.py)
 
 * If you find our article is useful to your research, please cite following papers:
