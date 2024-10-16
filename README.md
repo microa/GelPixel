@@ -12,8 +12,10 @@
 * General model Fourier parameters: 
 [Fourier parameters](Files/Parameters.xlsx)
 
-<!-- -->* Approximate Responsivity:<br>
-<!-- --><img src="https://github.com/microa/GelPixel/blob/main/Files/Picture2.png" width="400px">
+<!--
+* Approximate Responsivity:<br>
+<img src="https://github.com/microa/GelPixel/blob/main/Files/Picture2.png" width="400px">
+-->
 
 * Structures compare:
 [Code](Code/Cal_Cmp_Structure.ipynb)
